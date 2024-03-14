@@ -9,6 +9,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(../public/phonebook.jpg);
   background-size: cover;
+  padding-left: 60px;
 }
 
 code {

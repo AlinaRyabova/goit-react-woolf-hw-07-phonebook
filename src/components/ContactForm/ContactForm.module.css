@@ -11,7 +11,7 @@
 .input {
   padding: 8px;
   margin-bottom: 16px;
-  border-radius: 10px;
+  margin-left: 10px;
 }
 .button {
   width: 100px;
