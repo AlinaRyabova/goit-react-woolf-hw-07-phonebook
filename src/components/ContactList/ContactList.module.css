@@ -1,0 +1,19 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin-bottom: 8px;
+}
+.button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+}
+.button:hover {
+  background-color: blueviolet;
+}
+.button:active {
+  background-color: blueviolet;
+}

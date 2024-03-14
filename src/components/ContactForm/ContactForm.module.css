@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.label {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.input {
+  padding: 8px;
+  margin-bottom: 16px;
+  border-radius: 10px;
+}
+.button {
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+}
+.button:hover {
+  background-color: blueviolet;
+}
+.button:active {
+  background-color: blueviolet;
+}
